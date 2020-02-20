@@ -65,3 +65,4 @@ exports.clean = clean;
 exports.lint = lint;
 exports.build = build;
 exports.default = build;
+exports.scripts = scripts;
